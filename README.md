@@ -18,7 +18,7 @@ Either left or right. Based on Neal Ford's [implementation of Either](https://gi
 		if(data)
 			return either.right(data);
 		else
-			return either.left(new Error('The requested data could not be found in the data store.'));
+			return either.left(new Error('The requested data could not be found.'));
 	}
 
 	getData().fold(
