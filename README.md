@@ -10,7 +10,6 @@ Either left or right. Based on Neal Ford's [implementation of Either](https://gi
 
 ## Example
 
-
 ``` js
 	function getData() {
 		data = getDataFromSomeDataStore();
