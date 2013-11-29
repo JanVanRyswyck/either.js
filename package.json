@@ -1,0 +1,25 @@
+{
+  "name": "either.js",
+  "description": "Either left or right.",
+  "version": "0.0.1",
+  "author": "Jan Van Ryswyck (http://elegantcode.com)",
+  "homepage": "https://github.com/JanVanRyswyck/either.js",
+  "license": "MIT",
+  "keywords": [
+    "either",
+    "either.js"
+  ],
+  "scripts": {
+    "test": "mocha ./test/*"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node":  ">= 0.8.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "chai": "~1.8.1"
+  }
+}
