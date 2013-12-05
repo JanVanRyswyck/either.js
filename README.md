@@ -1,6 +1,6 @@
 # either.js
 
-Either left or right. Based on Neal Ford's [implementation of Either](https://github.com/nealford/NealFord_FunctionalThinkingVideo_Samples) in his Functional Thinking video series.
+Either left or right. Represents a value of one of two possible types (a disjoint union). Based on Neal Ford's [implementation of Either](https://github.com/nealford/NealFord_FunctionalThinkingVideo_Samples) in his Functional Thinking video series.
 
 ## Install
 
